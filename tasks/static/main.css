@@ -1,0 +1,36 @@
+.container {
+  background-color: #343a40;
+  color: #ffffff;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px; /* Agrega el border-radius deseado */
+}
+
+  
+  
+  .container h1,
+  .container h3,
+  .container p {
+    color: #343a40;
+  }
+  
+  .container .list-group {
+    margin-top: 50px;
+  }
+  
+  .container .card {
+    color: #343a40;
+  }
+  
+  .container .card-body {
+    background-color: #343a40;
+  }
+  
+  .container .btn-primary {
+    background-color: #007bff;
+  }
+  
+  .container .btn-danger {
+    background-color: #dc3545;
+  }
+  
